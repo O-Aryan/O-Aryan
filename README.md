@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hi, I'm Aryan
 
-<!--
-**O-Aryan/O-Aryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Developer | Web • JavaScript • React  
+🧠 Problem Solver | Builder | Tech Enthusiast  
 
-Here are some ideas to get you started:
+I’m an aspiring developer who enjoys coding and building new things.  
+I like experimenting with ideas, creating projects, and turning them into real products.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 What I Do
+
+⚙️ Build web applications and small SaaS projects  
+🌐 Create modern apps using React, Next.js & Tailwind CSS  
+🔌 Turn ideas into working products  
+🧪 Learn by building and solving real-world problems  
+📈 Focus on consistency and clean code  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![Python](https://img.shields.io/badge/Python-blue)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-blue)
+![Next.js](https://img.shields.io/badge/Next.js-black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green)
+![REST API](https://img.shields.io/badge/REST-API-grey)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![VS Code](https://img.shields.io/badge/VSCode-blue)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Skill Swap Web App**  
+A platform where users can exchange skills and connect with others  
+
+🔹 **Code Together AI**  
+A collaborative coding platform with real-time interaction features  
+
+---
+
+## 🏆 Certifications
+
+📜 Java — HackerRank  
+📜 JavaScript — HackerRank  
+📜 Python — Coursera  
+
+---
+
+## 📊 GitHub Stats
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-Aryan&show_icons=true)
+
+---
+
+## 🔗 Connect with Me
+
+- GitHub: https://github.com/O-Aryan  
+- LinkedIn: https://www.linkedin.com/in/aryanpandey4526  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building projects more than just watching tutorials 🚀
