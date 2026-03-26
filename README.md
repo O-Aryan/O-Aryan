@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aryan
 
-🚀 Aspiring Developer | Web • JavaScript • Java  
+🚀 Software Developer | Web • JavaScript • Java  
 🧠 Problem Solver | Builder | Tech Enthusiast  
 
 I’m an aspiring developer who enjoys coding and building new things.  
