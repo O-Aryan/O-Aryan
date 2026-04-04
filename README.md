@@ -68,6 +68,15 @@ Explores concepts like real-time communication and interactive development.
 
 ---
 
+### 🔹 Proof Of Skill AI  
+🔗 https://github.com/O-Aryan/ProofOfSkill-AI  
+An AI-powered skill verification platform for recruiters and candidates.  
+Generates coding challenges dynamically and allows candidates to solve them in real-time.  
+Includes features like role-based authentication and live tracking during assessments.  
+Built to improve hiring accuracy through automated skill testing and evaluation.  
+
+---
+
 ## 🏆 Certifications
 
 📜 Java — HackerRank  
