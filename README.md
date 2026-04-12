@@ -81,7 +81,7 @@ Built to improve hiring accuracy through automated skill testing and evaluation.
 
 📜 Java — HackerRank  
 📜 JavaScript — HackerRank  
-📜 Python — Coursera  
+📜 Python —   HackerRank
 
 ---
 
